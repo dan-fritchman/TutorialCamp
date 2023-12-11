@@ -15,3 +15,7 @@ class Tb:
     # The task at hand: fill in this testbench!
     # - Add DC sources for Vds and Vgs
     # - Add an instance of the Nmos transistor
+
+
+def main():
+    raise NotImplementedError("Implemented me here!")
